@@ -1,32 +1,45 @@
 # Calculate Your Age!
-<!--Remove the below lines and add yours -->
+
 This script prints your age in three different ways : 
 1. Years
 2. Months
 3. Days
 
-
 ## Prerequisites
-<!--Remove the below lines and add yours -->
-You only need Python to run this script. You can visit [here](https://www.python.org/downloads/) to download Python.
 
+You only need the Python installed in your computer! You can visit [here](https://www.python.org/downloads/) to download Python
 
 ## How to run the script
-<!--Remove the below lines and add yours -->
-Running the script is really simple! Just open a terminal in the folder where your script is located and run the following command :
 
-    `python calculate.py`
+Running the script is really simple!
 
+If you are on Windows, click the Windows button and type cmd (click ENTER). Now, type the command 'dir'(without quotation marks) to list all your directories of the current directory > use cd(change directory) to direct to the directory containing 'calculate-age.py'. Type > python calculate-age.py < then the program will be executed
+
+(EXPLAIN) > If your program are in Desktop directory, we must should change our current directory to the Desktop and in the end, we type 'python calculate-age.py' (without quotations marks). Follow the example:
+
+~/  <- it mean the home of the user
+
+C:\Users\user\ > cd Desktop
+C:\Users\user\Desktop > python calculate-age.py
+
+or
+
+"user@windows ~/ cd Desktop >" 
+"user@windos ~/Desktop/ > python calculate-age.py"
 
 ## Sample use of the script
-<!--Remove the below lines and add yours -->
 ```
 $ python calculate.py 
-    input your name: XYZ
-    input your age: 33 
-    XYZ's age is 33 years or 406 months or 12328 days
+    
+    >>> input your name: XYZ
+    >>> input your age: 33
+
+        XYZ's your age in year: 33 
+        XYZ's your age in months: 406
+        XYZ's your age in days: 12328
+        
 ```
 
-## *Author Name*
-<!--Remove the below lines and add yours -->
-[Gaodong](https://github.com/xlgd)
+## *Leonardo Abadie(Matias)*
+
+[Gaodong](https://github.com/LeoAbadie)
